@@ -1,2 +1,1 @@
-# coding-challenges
-Various coding challenges
+# Various coding challenges
