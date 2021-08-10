@@ -1,1 +1,0 @@
-# Various coding challenges
